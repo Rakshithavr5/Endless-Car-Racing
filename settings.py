@@ -1,0 +1,43 @@
+# ==========================
+# GAME SETTINGS
+# ==========================
+
+# Screen
+WIDTH = 800
+HEIGHT = 600
+FPS = 60
+
+# Road
+ROAD_LEFT = 200
+ROAD_RIGHT = 600
+ROAD_WIDTH = ROAD_RIGHT - ROAD_LEFT
+ROAD_SPEED = 6
+
+# Player
+PLAYER_WIDTH = 60
+PLAYER_HEIGHT = 120
+PLAYER_SPEED = 8
+
+# Enemy
+ENEMY_WIDTH = 60
+ENEMY_HEIGHT = 120
+ENEMY_SPEED = 6
+
+# Lane Centers
+LANES = [230, 330, 430, 530]
+
+# Colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+GRAY = (60, 60, 60)
+GREEN = (34, 139, 34)
+RED = (255, 0, 0)
+BLUE = (0, 0, 255)
+YELLOW = (255, 255, 0)
+
+# Font
+FONT_SIZE = 30
+
+# Difficulty
+SPEED_INCREMENT = 0.2
+LEVEL_UP_SCORE = 500
