@@ -2,9 +2,7 @@
 
 ## 📌 Project Overview
 
-Endless Car Racing is a modular racing game built using Python and Pygame. The player controls a car that moves left and right to avoid incoming enemy vehicles while traveling on an endless scrolling road.
-
-This project is designed with clean architecture so it can be extended in future with AI facial-expression controls.
+Endless Car Racing is a 2D endless racing game developed using Python and Pygame. Players control a car by moving left and right to avoid incoming enemy vehicles while driving on an endlessly scrolling road. The game features smooth controls, collision detection, score tracking, increasing difficulty, and a modular code structure for better organization and maintainability.
 
 ---
 ## Screenshots
